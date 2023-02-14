@@ -10,4 +10,6 @@ sudo nano Ivan.txt
 git add .
 git commit -m "Apellidos"
 sudo nano curso.txt
+git add .
+git commit -m "curso"
 git branch
